@@ -22,6 +22,7 @@ body
     padding: 30px;
 
 }
+
 .box h2
 {
     margin-bottom: 40px;
@@ -30,6 +31,7 @@ body
     color: #f81520;
     font-family: sans-serif;
 }
+
 input 
 {
     padding: 20px;
@@ -75,6 +77,7 @@ input::placeholder
     color: white;
     background-color: black;
 }
+
 #levelbtn
 {
     font-family: sans-serif;
@@ -91,6 +94,7 @@ input::placeholder
     cursor: pointer;
     border-radius: 5px;
 }
+
 #levelbtn:hover
 {
     color: white;
